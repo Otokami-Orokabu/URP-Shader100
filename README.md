@@ -14,3 +14,20 @@ URP 向けのシェーダーとエフェクトの描き溜め
     - Build-in の UnlitShader を URP の記述に変更
     - SRP Batcher 対応
     ```
+1. ShowUV
+    ```
+    元ネタ: https://docs.unity.cn/ja/2023.1/Manual/SL-ShaderSemantics.html
+    Unity User Manual : シェーダーセマンティクス
+    頂点シェーダー入力セマンティクス
+    ```
+1. ScreenPosition
+    ```
+    元ネタ: https://docs.unity.cn/ja/2023.1/Manual/SL-ShaderSemantics.html
+    Unity User Manual : シェーダーセマンティクス
+    スクリーンスペースのピクセル位置: VPOS
+    ```
+1. TwoPassOutline
+    ```
+    やる機会があったのでやってみた
+    参考元:まとめちゅ
+    ```

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1488656358711118443
+--- !u!114 &-8662659139444826389
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Material001_Unlit
-  m_Shader: {fileID: 4800000, guid: 99f46d7f209684f00937874b96c0f8bc, type: 3}
+  m_Name: 003_ScreenPosition
+  m_Shader: {fileID: 4800000, guid: 563d051bf59a344df9e0da2f8f6f84e3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
