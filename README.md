@@ -22,7 +22,7 @@ URP 向けのシェーダーとエフェクトの描き溜め
     ```
 1. ScreenPosition
     ```
-    元ネタ: https://docs.unity.cn/ja/2023.1/Manual/SL-ShaderSemantics.html
+    参考元: https://docs.unity.cn/ja/2023.1/Manual/SL-ShaderSemantics.html
     Unity User Manual : シェーダーセマンティクス
     スクリーンスペースのピクセル位置: VPOS
     ```
@@ -30,4 +30,9 @@ URP 向けのシェーダーとエフェクトの描き溜め
     ```
     やる機会があったのでやってみた
     参考元:まとめちゅ
+    ```
+1. LerpColor
+    ```
+    参考元:https://techblog.sega.jp/entry/2017/10/25/100000
+    マテリアルへのエディタ拡張が学べる
     ```
